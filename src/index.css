@@ -1,0 +1,15 @@
+@import url('./cssReset.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 12px;
+}
+
+* {
+  line-height: 1;
+}
