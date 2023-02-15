@@ -9,11 +9,7 @@ export const Contact = () => {
         <h1 className="text-4xl">Contacto</h1>
         <div className="py-3 px-6 text-xl flex items-center gap-2 justify-center contact--button">
           <WhatsappIcon className="w-6 h-6" />
-          <h2>Confirmar a Daniela</h2>
-        </div>
-        <div className="py-3 px-6 text-xl flex items-center gap-2 justify-center contact--button">
-          <WhatsappIcon className="w-6 h-6" />
-          <h2>Confirmar a Mamá</h2>
+          <h2>Confirmar a Elsa</h2>
         </div>
         <h2 className="text-2xl mt-auto contact--subtitle">¡Te Espero!</h2>
         <img
